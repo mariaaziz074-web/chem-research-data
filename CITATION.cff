@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Your Last Name"
+    given-names: "Your First Name"
+    orcid: "https://orcid.org/YOUR-ORCID" # Optional
+title: "chemdata: Chemistry Dataset Quality Assurance Toolkit"
+version: 0.1.0
+date-released: 2024-09-26
+url: "https://github.com/YOUR_USERNAME/chem-research-data"
+repository-code: "https://github.com/YOUR_USERNAME/chem-research-data"
+keywords:
+  - chemistry
+  - data-quality
+  - machine-learning
+  - computational-chemistry
+  - data-validation
+license: MIT
