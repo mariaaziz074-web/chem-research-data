@@ -1,0 +1,6 @@
+catalyst,catalyst_loading_g_L,dye,concentration_mg_L,pH,temperature_C,time_min,degradation_percent
+TiO2,1.0,Methylene Blue,10.0,7.0,25.0,60,85.0
+ZnO,0.5,Rhodamine B,20.0,6.5,30.0,120,92.0
+Fe2O3,2.0,Methyl Orange,15.0,8.0,25.0,90,78.0
+CuO,1.5,Congo Red,25.0,7.5,35.0,60,88.0
+TiO2,1.0,Malachite Green,10.0,6.0,25.0,180,95.0
