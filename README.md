@@ -44,7 +44,7 @@ A Python package for validating, normalizing, and quality-checking chemistry dat
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone (https://github.com/mariaaziz074-web/chem-research-data)
 cd chem-research-data
 
 # Create virtual environment
